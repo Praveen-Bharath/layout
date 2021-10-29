@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+.header{
+  background: lightgreen;
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+}
+.navig{
+  font-size: 12px;
+  text-align: center;
+  background-color: orangered;
+  padding: 10px;
+  margin: 10px;
+}
+.aside1{
+  float: left;
+  width: 20%;
+  padding: 20px;
+  padding-top: 90px;
+  padding-bottom: 80px;
+  background-color: blue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  margin-left: 10px;
+  text-align: center;
+}
+.aside2{
+  float: left;    
+  text-align: center;
+  padding: 20px;
+  padding-top: 90px;
+  padding-bottom: 80px;
+  width: 70.8%;
+  background-color: aqua;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 5px;
+}
+  .footer{
+  float: bottom;
+  text-align: center;
+  background-color: rgb(67, 8, 228);
+  margin: 260px 10px 10px 10px;
+  padding: 10px;         
+}
