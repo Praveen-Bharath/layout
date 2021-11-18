@@ -6,5 +6,5 @@ function Navig(){
       <p>Navigation Bar</p>    
   </div>
     )
-  }
+  } 
    export default Navig;
